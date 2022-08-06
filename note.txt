@@ -1,0 +1,4 @@
+git add. : đóng gói những thay đổi
+git clone : clone kho về folder
+git commit -m: ký tên đóng gói
+git push origin main : đẩy dữ liện lên git
